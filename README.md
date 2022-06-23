@@ -2,7 +2,7 @@
 Public repository for public data of Rajya Sabha members
 
 this repository contains following files:
-1. TCPD_RSD_1952_2021.csv : Rajya sa
+1. TCPD_RSD_1952_2021.csv : List of members of Rajya Sabha (Indian Parliament's upper-house) from 1952 to 2021 with their public information.
 2. Codebook : documentation and detailed description of variables in the dataset.
 
 
