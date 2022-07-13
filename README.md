@@ -10,5 +10,3 @@ The Rajya Sabha Dataset is a corpus of data concerning all members of the Rajya 
 
 The "Type" variable in the dataset describes the status of membership as on 11-July-2022, either as current or former.
 The "pid" variable is consistent with the TCPD-IID and TCPD-IED.
-
-This repository is an extract of the comprehensive tpcd-data repository at "tcpd-data/RS_Data_Raw_Incumbency" directory. 
